@@ -1,6 +1,25 @@
+<p align="center">
+  <img src="assets/project-banner.svg" alt="AI Resume Optimizer banner" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-AI%20Workflow-2563EB?style=flat-square" />
+  <img src="https://img.shields.io/badge/Methods-JD%20Analysis%20%7C%20ATS%20Keywords-0F172A?style=flat-square" />
+  <img src="https://img.shields.io/badge/Output-Resume%20Bullet%20Rewrite-0D9488?style=flat-square" />
+</p>
+
 # AI Resume Optimizer
 
 A practical AI-assisted workflow for matching a resume to job descriptions, extracting ATS keywords, and rewriting experience bullets with clearer evidence.
+
+## At a Glance
+
+| Item | Detail |
+| --- | --- |
+| Role fit | Data analyst internship, AI product internship, AI operations |
+| Core value | Turns a job description into a structured resume optimization workflow |
+| Main skills | Prompt engineering, keyword extraction, evidence mapping, STAR writing |
+| Recruiter signal | Practical AI usage with human judgment and verification |
 
 ## Project Background
 

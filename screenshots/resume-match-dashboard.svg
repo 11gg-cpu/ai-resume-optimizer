@@ -1,0 +1,28 @@
+<svg width="1100" height="620" viewBox="0 0 1100 620" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1100" height="620" rx="24" fill="#F8FAFC"/>
+  <rect x="36" y="32" width="1028" height="556" rx="20" fill="#FFFFFF" stroke="#CBD5E1"/>
+  <text x="70" y="86" fill="#0F172A" font-family="Inter, Arial" font-size="28" font-weight="800">Resume-to-JD Match Dashboard</text>
+  <text x="70" y="118" fill="#64748B" font-family="Inter, Arial" font-size="15">Sample output for a Data Analyst / AI Product internship application.</text>
+  <rect x="70" y="154" width="214" height="112" rx="16" fill="#DBEAFE"/>
+  <text x="96" y="196" fill="#1E3A8A" font-family="Inter, Arial" font-size="16" font-weight="700">Keyword Coverage</text>
+  <text x="96" y="238" fill="#1E3A8A" font-family="Inter, Arial" font-size="38" font-weight="800">78%</text>
+  <rect x="316" y="154" width="214" height="112" rx="16" fill="#DCFCE7"/>
+  <text x="342" y="196" fill="#166534" font-family="Inter, Arial" font-size="16" font-weight="700">Evidence Strength</text>
+  <text x="342" y="238" fill="#166534" font-family="Inter, Arial" font-size="38" font-weight="800">High</text>
+  <rect x="562" y="154" width="214" height="112" rx="16" fill="#FEF3C7"/>
+  <text x="588" y="196" fill="#92400E" font-family="Inter, Arial" font-size="16" font-weight="700">Missing Terms</text>
+  <text x="588" y="238" fill="#92400E" font-family="Inter, Arial" font-size="38" font-weight="800">6</text>
+  <rect x="808" y="154" width="214" height="112" rx="16" fill="#EDE9FE"/>
+  <text x="834" y="196" fill="#4C1D95" font-family="Inter, Arial" font-size="16" font-weight="700">Rewrite Tasks</text>
+  <text x="834" y="238" fill="#4C1D95" font-family="Inter, Arial" font-size="38" font-weight="800">4</text>
+  <rect x="70" y="310" width="460" height="214" rx="16" fill="#F8FAFC" stroke="#E2E8F0"/>
+  <text x="96" y="350" fill="#0F172A" font-family="Inter, Arial" font-size="18" font-weight="800">Top Matched Skills</text>
+  <text x="96" y="390" fill="#334155" font-family="Inter, Arial" font-size="15">Python · SQL · Excel · Dashboarding · Statistical reasoning</text>
+  <text x="96" y="430" fill="#334155" font-family="Inter, Arial" font-size="15">Stakeholder communication · Product thinking · AI tooling</text>
+  <text x="96" y="480" fill="#64748B" font-family="Inter, Arial" font-size="14">Review rule: only add keywords supported by real coursework or projects.</text>
+  <rect x="562" y="310" width="460" height="214" rx="16" fill="#F8FAFC" stroke="#E2E8F0"/>
+  <text x="588" y="350" fill="#0F172A" font-family="Inter, Arial" font-size="18" font-weight="800">Rewrite Recommendation</text>
+  <text x="588" y="392" fill="#334155" font-family="Inter, Arial" font-size="15">Before: Worked on Excel analysis.</text>
+  <text x="588" y="430" fill="#334155" font-family="Inter, Arial" font-size="15">After: Built an Excel analytics workflow covering cleaning,</text>
+  <text x="588" y="456" fill="#334155" font-family="Inter, Arial" font-size="15">pivot analysis, KPI dashboard design, and business insight writing.</text>
+</svg>

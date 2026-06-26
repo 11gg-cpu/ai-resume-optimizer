@@ -27,6 +27,15 @@ A practical AI-assisted workflow for matching a resume to job descriptions, extr
   <img src="assets/workflow-preview.svg" alt="AI resume optimizer workflow preview" width="100%" />
 </p>
 
+## Screenshot & Data Output
+
+<p align="center">
+  <img src="screenshots/resume-match-dashboard.svg" alt="Resume match dashboard preview" width="100%" />
+</p>
+
+- Sample keyword output: [`data/sample_jd_keywords.csv`](data/sample_jd_keywords.csv)
+- Example rewritten result: [`examples/sample-output.md`](examples/sample-output.md)
+
 ## Project Background
 
 During internship applications, I noticed that many resumes fail not because the candidate lacks experience, but because the resume does not reflect the language, priorities, and evidence expected by the role. This project turns that problem into a structured workflow: read the job description, identify the core requirements, map existing experience, and rewrite bullets using a consistent evaluation framework.

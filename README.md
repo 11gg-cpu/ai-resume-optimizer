@@ -21,6 +21,12 @@ A practical AI-assisted workflow for matching a resume to job descriptions, extr
 | Main skills | Prompt engineering, keyword extraction, evidence mapping, STAR writing |
 | Recruiter signal | Practical AI usage with human judgment and verification |
 
+## Workflow Preview
+
+<p align="center">
+  <img src="assets/workflow-preview.svg" alt="AI resume optimizer workflow preview" width="100%" />
+</p>
+
 ## Project Background
 
 During internship applications, I noticed that many resumes fail not because the candidate lacks experience, but because the resume does not reflect the language, priorities, and evidence expected by the role. This project turns that problem into a structured workflow: read the job description, identify the core requirements, map existing experience, and rewrite bullets using a consistent evaluation framework.
@@ -89,3 +95,13 @@ ai-resume-optimizer/
 ## Resume Bullet
 
 - Built an AI-assisted resume optimization workflow that parses job descriptions, extracts ATS keywords, maps candidate evidence, and rewrites experience bullets for data analytics and AI product internship applications.
+
+## Next Improvements
+
+- Add a Streamlit prototype for uploading a JD and resume text.
+- Add a scoring rubric for evidence quality and keyword coverage.
+- Add more before/after resume bullet examples.
+
+## Contact
+
+For questions or collaboration: [steventang30999@gmail.com](mailto:steventang30999@gmail.com)
